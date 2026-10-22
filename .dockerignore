@@ -1,0 +1,7 @@
+.git
+.mvn
+data
+frontend
+target
+latest-log.txt
+startup-log.txt
